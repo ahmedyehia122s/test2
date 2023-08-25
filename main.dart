@@ -22,7 +22,7 @@ class homepage1 extends StatelessWidget {
       body: Container(
         height: 200,
         width: 200,
-        margin: EdgeInsets.all(11),
+        margin: EdgeInsets.all(12),
         // padding: EdgeInsets.symmetric(horizontal: 50, vertical: 70),
         alignment: Alignment.center,
         decoration: BoxDecoration(
