@@ -26,7 +26,8 @@ class homepage1 extends StatelessWidget {
         // padding: EdgeInsets.symmetric(horizontal: 50, vertical: 70),
         alignment: Alignment.center,
         decoration: BoxDecoration(
-            color: Colors.blue,
+            color: Colors.yellow
+          ,
             boxShadow: [
               BoxShadow(
                   color: Colors.black45,
